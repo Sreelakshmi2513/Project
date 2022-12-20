@@ -1,19 +1,19 @@
-Neighbourhood,Ballot #,Project,Location,Cost,Primary Type,Secondary Type,# of Votes
-West,W1,Community Garden,1044 Heron Blvd.,"$12,800",Environment,,103
-West,W2,Picnic Tables,804 Boyden Rd.,"$42,000",Park,,104
-West,W3,Basketball Court,95 Halifax Cres.,"$37,400",Park,,171
-West,W4,Basketball Court,698 Pearwood St.,"$42,500",Park,,110
-West,W5,Bat Boxes,1274 Heron Blvd.,"$1,000",Environment,,201
-West,W6,Playground Addition,231 Clement Rd.,"$25,500",Park,,249
-West,W7,Outdoor Reading Garden,930 Tyson Blvd.,"$34,000",Environment,Park,153
-West,W8,Frisbee Golf,930 Tyson Blvd.,"$3,100",Park,,142
-West,W9,Ice Rink,18 Martins Lane,"$5,100",Park,,402
-West,W10,Walkway Improvement,747 Carmel Lane,"$17,000",Park,,44
-West,W11,Solar Panels,1222 Gilmour Rd.,"$50,000",Environment,,193
-West,W12,Playground,930 Tyson Blvd.,"$50,000",Park,,146
-West,W13,Basketball and Shade Trees,687 Washington Blvd.,"$40,400",Park,,165
-West,W14,Garden Tool Shed,717 Coach St.,"$11,100",Environment,,79
-West,W15,Shade Haven,679 Marigold Rd.,"$50,000",Park,,72
-West,W16,Benches & Free Little Library,582 Cheswick St.,"$2,700",Park,Culture,82
-West,W17,Basketball Courts,19 Knightsbridge Rd.,"$42,500",Park,,102
-West,W18,School Yard Upgrades,1754 Murray St.,"$8,500",Park,,115
+Neighbourhood,Ballot #,Project,Location,Cost,Primary Type,Secondary Type,# of Votes,Cost
+West,W1,Community Garden,1044 Heron Blvd.,"12,800",Environment,,103,"12,800"
+West,W2,Picnic Tables,804 Boyden Rd.,"42,000",Park,,104,"42,000"
+West,W3,Basketball Court,95 Halifax Cres.,"37,400",Park,,171,"37,400"
+West,W4,Basketball Court,698 Pearwood St.,"42,500",Park,,110,"42,500"
+West,W5,Bat Boxes,1274 Heron Blvd.,"1,000",Environment,,201,"1,000"
+West,W6,Playground Addition,231 Clement Rd.,"25,500",Park,,249,"25,500"
+West,W7,Outdoor Reading Garden,930 Tyson Blvd.,"34,000",Environment,Park,153,"34,000"
+West,W8,Frisbee Golf,930 Tyson Blvd.,"3,100",Park,,142,"3,100"
+West,W9,Ice Rink,18 Martins Lane,"5,100",Park,,402,"5,100"
+West,W10,Walkway Improvement,747 Carmel Lane,"17,000",Park,,44,"17,000"
+West,W11,Solar Panels,1222 Gilmour Rd.,"50,000",Environment,,193,"50,000"
+West,W12,Playground,930 Tyson Blvd.,"50,000",Park,,146,"50,000"
+West,W13,Basketball and Shade Trees,687 Washington Blvd.,"40,400",Park,,165,"40,400"
+West,W14,Garden Tool Shed,717 Coach St.,"11,100",Environment,,79,"11,100"
+West,W15,Shade Haven,679 Marigold Rd.,"50,000",Park,,72,"50,000"
+West,W16,Benches & Free Little Library,582 Cheswick St.,"2,700",Park,Culture,82,"2,700"
+West,W17,Basketball Courts,19 Knightsbridge Rd.,"42,500",Park,,102,"42,500"
+West,W18,School Yard Upgrades,1754 Murray St.,"8,500",Park,,115,"8,500"

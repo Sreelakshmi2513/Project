@@ -1,34 +1,34 @@
-Neighbourhood,Ballot #,Project,Location,Cost,Primary Type,Secondary Type,# of Votes
-Downtown,D1,Basketball Court,297 Dryden Cres.,"$50,000",Park,,123
-Downtown,D2,Bike Lockers,732 Wilson St.,"$17,000",Roads,,255
-Downtown,D3,Community Mural,1121 Burton St.,"$50,000",Culture,,330
-Downtown,D4,Urban Beehives,42 Kensall Rd.,"$15,300",Environment,,541
-Downtown,D5,Memorial Display,419 Coombe St.,"$4,300",Culture,,24
-Downtown,D6,Compost and Organic Food Waste Project,472 Seaton Dr.,"$6,000",Environment,,79
-Downtown,D7,Monument,1019 Murdock St.,"$48,500",Culture,,82
-Downtown,D8,Nature Discovery Event,458 Lambert Rd.,"$4,300",Culture,,67
-Downtown,D9,Mural,45 Branwell St.,"$17,000",Culture,,24
-Downtown,D10,Tunnel Mural,328 Lambert St.,"$17,000",Culture,,80
-Downtown,D11,Community Bulletin Board & Little Library,1131 Gilmour Rd.,"$10,200",Culture,Park,26
-Downtown,D12,Historical Tours ,1049 Rockingham St.,"$6,800",Culture,,41
-Downtown,D13,Community Info Board,2172 Rockingham St.,"$10,200",Park,Culture,18
-Downtown,D14,Commemorative Street Signs,1286 Wilson St.,"$8,500",Roads,Culture,10
-Downtown,D15,Climate Action Centre,83 Sedgley Way,"$8,500",Culture,Environment,123
-Downtown,D16,Free Fruit Event,1300 Fields St.,"$8,500",Environment,,289
-Downtown,D17,Ice Rinks,1089 Orchard Lane,"$10,200",Park,,388
-Downtown,D18,Crosswalk Improvements,1282 Rockingham St.,"$8,800",Roads,Culture,102
-Downtown,D19,Garden and Music Project,129 Wilson St.,"$8,500",Culture,Environment,93
-Downtown,D20,Storm Drain Painting,1265 Rockingham St.,"$8,200",Culture,Roads,179
-Downtown,D21,Concert Series,28 Branwell St.,"$50,000",Culture,,203
-Downtown,D22,Picnic Area,1748 Mill St.,"$50,000",Park,,43
-Downtown,D23,Commemorative Street Signs,1284 Thorn Grove,"$5,100",Roads,Culture,14
-Downtown,D24,Benches,727 Belford Dr.,"$11,900",Park,,24
-Downtown,D25,Art in the Park,1653 Felton Way,"$8,500",Culture,,139
-Downtown,D26,Bench,448 Webster St.,"$3,400",Park,,30
-Downtown,D27,Community Bulletin Board,883 Chester St.,"$5,100",Park,Culture,12
-Downtown,D28,Nature Tour,1267 Rockingham St.,"$6,800",Culture,,40
-Downtown,D29,Welcome Signage,1208 Clifton Ave.,"$10,200",Roads,,109
-Downtown,D30,Pollinator Garden,1898 Chaucer Dr.,"$5,100",Environment,,202
-Downtown,D31,Block Party,217 Webster St.,"$10,200",Culture,,41
-Downtown,D32,Naturalized Playground,823 Duncan Rd.,"$50,000",Park,Environment,110
-Downtown,D33,Murals,297 Wilson St.,"$10,200",Culture,,148
+Neighbourhood,Ballot #,Project,Location,Cost,Primary Type,Secondary Type,# of Votes,,Cost
+Downtown,D1,Basketball Court,297 Dryden Cres.,50000,Park,,123,,"50,000"
+Downtown,D2,Bike Lockers,732 Wilson St.,17000,Roads,,255,,"17,000"
+Downtown,D3,Community Mural,1121 Burton St.,50000,Culture,,330,,"50,000"
+Downtown,D4,Urban Beehives,42 Kensall Rd.,15300,Environment,,541,,"15,300"
+Downtown,D5,Memorial Display,419 Coombe St.,4300,Culture,,24,,"4,300"
+Downtown,D6,Compost and Organic Food Waste Project,472 Seaton Dr.,6000,Environment,,79,,"6,000"
+Downtown,D7,Monument,1019 Murdock St.,48500,Culture,,82,,"48,500"
+Downtown,D8,Nature Discovery Event,458 Lambert Rd.,4300,Culture,,67,,"4,300"
+Downtown,D9,Mural,45 Branwell St.,17000,Culture,,24,,"17,000"
+Downtown,D10,Tunnel Mural,328 Lambert St.,17000,Culture,,80,,"17,000"
+Downtown,D11,Community Bulletin Board & Little Library,1131 Gilmour Rd.,10200,Culture,Park,26,,"10,200"
+Downtown,D12,Historical Tours ,1049 Rockingham St.,6800,Culture,,41,,"6,800"
+Downtown,D13,Community Info Board,2172 Rockingham St.,10200,Park,Culture,18,,"10,200"
+Downtown,D14,Commemorative Street Signs,1286 Wilson St.,8500,Roads,Culture,10,,"8,500"
+Downtown,D15,Climate Action Centre,83 Sedgley Way,8500,Culture,Environment,123,,"8,500"
+Downtown,D16,Free Fruit Event,1300 Fields St.,8500,Environment,,289,,"8,500"
+Downtown,D17,Ice Rinks,1089 Orchard Lane,10200,Park,,388,,"10,200"
+Downtown,D18,Crosswalk Improvements,1282 Rockingham St.,8800,Roads,Culture,102,,"8,800"
+Downtown,D19,Garden and Music Project,129 Wilson St.,8500,Culture,Environment,93,,"8,500"
+Downtown,D20,Storm Drain Painting,1265 Rockingham St.,8200,Culture,Roads,179,,"8,200"
+Downtown,D21,Concert Series,28 Branwell St.,50000,Culture,,203,,"50,000"
+Downtown,D22,Picnic Area,1748 Mill St.,50000,Park,,43,,"50,000"
+Downtown,D23,Commemorative Street Signs,1284 Thorn Grove,5100,Roads,Culture,14,,"5,100"
+Downtown,D24,Benches,727 Belford Dr.,11900,Park,,24,,"11,900"
+Downtown,D25,Art in the Park,1653 Felton Way,8500,Culture,,139,,"8,500"
+Downtown,D26,Bench,448 Webster St.,3400,Park,,30,,"3,400"
+Downtown,D27,Community Bulletin Board,883 Chester St.,5100,Park,Culture,12,,"5,100"
+Downtown,D28,Nature Tour,1267 Rockingham St.,6800,Culture,,40,,"6,800"
+Downtown,D29,Welcome Signage,1208 Clifton Ave.,10200,Roads,,109,,"10,200"
+Downtown,D30,Pollinator Garden,1898 Chaucer Dr.,5100,Environment,,202,,"5,100"
+Downtown,D31,Block Party,217 Webster St.,10200,Culture,,41,,"10,200"
+Downtown,D32,Naturalized Playground,823 Duncan Rd.,50000,Park,Environment,110,,"50,000"
+Downtown,D33,Murals,297 Wilson St.,10200,Culture,,148,,"10,200"

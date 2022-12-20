@@ -1,19 +1,19 @@
-Neighbourhood,Ballot #,Project,Location,Cost,Primary Type,Secondary Type,# of Votes
-East,E1,Ice Rink,289 Rhodes Dr.,"$6,800",Park,,222
-East,E2,Natural Playground Project,608 Blackwell St.,"$45,900",Park,Environment,275
-East,E3,Basketball Nets,424 Ashgrove Lane,"$50,000",Park,,35
-East,E4,Basketball Court Upgrades,1276 Woodley St.,"$50,000",Park,,1276
-East,E5,Little Library with Bulletin Board,909 Haddon Blvd.,"$1,000",Culture,,44
-East,E6,Brain-training Games for Older Adults,999 Calder Rd.,"$50,000",Park,Culture,112
-East,E7,Playground Equipment,603 Tarbert St.,"$50,000",Park,,682
-East,E8,Park Pathway,1062 Surrey Ln.,"$50,000",Park,,148
-East,E9,Natural Playground,1105 Harwood Cres.,"$50,000",Park,Environment,300
-East,E10,Basketball/Multi-use Court,120 Maypole Dr.,"$47,600",Park,,243
-East,E11,Shade and Building Refresh,255 Norleane Rd.,"$38,300",Park,,283
-East,E12,Barn Swallow Nesting Structure,909 Blair St.,"$17,000",Environment,,244
-East,E13,Skating Rink,1316 Vale Cres.,"$4,300",Park,,285
-East,E14,Pollinator Garden,672 Hill Top Lane,"$13,800",Environment,,328
-East,E15,Fruit & Vegetable Garden with Bench,1444 Hillcrest St.,"$5,100",Environment,,200
-East,E16,Outdoor Volleyball Court/Nets,549 Ainsdale Dr.,"$2,600",Park,,95
-East,E17,Mural/Art Event,649 Canterbury Lane,"$17,000",Culture,,64
-East,E18,Soccer Field Upgrades,1286 Woodley St.,"$3,700",Park,,147
+Neighbourhood,Ballot #,Project,Location,Cost,Primary Type,Secondary Type,# of Votes,Cost
+East,E1,Ice Rink,289 Rhodes Dr.,6800,Park,,222,"6,800"
+East,E2,Natural Playground Project,608 Blackwell St.,45900,Park,Environment,275,"45,900"
+East,E3,Basketball Nets,424 Ashgrove Lane,50000,Park,,35,"50,000"
+East,E4,Basketball Court Upgrades,1276 Woodley St.,50000,Park,,1276,"50,000"
+East,E5,Little Library with Bulletin Board,909 Haddon Blvd.,1000,Culture,,44,"1,000"
+East,E6,Brain-training Games for Older Adults,999 Calder Rd.,50000,Park,Culture,112,"50,000"
+East,E7,Playground Equipment,603 Tarbert St.,50000,Park,,682,"50,000"
+East,E8,Park Pathway,1062 Surrey Ln.,50000,Park,,148,"50,000"
+East,E9,Natural Playground,1105 Harwood Cres.,50000,Park,Environment,300,"50,000"
+East,E10,Basketball/Multi-use Court,120 Maypole Dr.,47600,Park,,243,"47,600"
+East,E11,Shade and Building Refresh,255 Norleane Rd.,38300,Park,,283,"38,300"
+East,E12,Barn Swallow Nesting Structure,909 Blair St.,17000,Environment,,244,"17,000"
+East,E13,Skating Rink,1316 Vale Cres.,4300,Park,,285,"4,300"
+East,E14,Pollinator Garden,672 Hill Top Lane,13800,Environment,,328,"13,800"
+East,E15,Fruit & Vegetable Garden with Bench,1444 Hillcrest St.,5100,Environment,,200,"5,100"
+East,E16,Outdoor Volleyball Court/Nets,549 Ainsdale Dr.,2600,Park,,95,"2,600"
+East,E17,Mural/Art Event,649 Canterbury Lane,17000,Culture,,64,"17,000"
+East,E18,Soccer Field Upgrades,1286 Woodley St.,3700,Park,,147,"3,700"
